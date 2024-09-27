@@ -12,7 +12,7 @@
 ### ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 🧑‍💻 Sobre mim
-#### 🌱 Atualmente estou aprendendo Python
+#### 🌱 Atualmente estou aprendendo HTML/CSS/JavaScript
 #### 🎓 Curso Informática para Internet no SENAI
 #### 🎒 Estudante da 2ª série do Ensino Médio
 #### 🏆 Focado em alcançar meus objetivos e me tornar um programador de destaque
